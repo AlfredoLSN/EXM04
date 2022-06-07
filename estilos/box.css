@@ -5,3 +5,9 @@ div {
     width: 200px;
     height: 120px;
 }
+#letraA {
+    background-color: red;
+}
+#letraB {
+    background-color: green;
+}
