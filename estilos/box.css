@@ -6,8 +6,8 @@ div {
     height: 120px;
     overflow: auto;
     padding: 10px;
-    border: solid 2px blue;
-    margin: 15px;
+    border: solid 2px orangered;
+    
     box-sizing: border-box;
 }
 #letraA {
@@ -15,9 +15,10 @@ div {
 }
 #letraB {
     background-color: green;
-    padding: 20px 10px 5px 0px;
-    float: right;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 #letraC {
-    float: right;
+    background-color: blue;
 }
