@@ -12,12 +12,13 @@ div {
 }
 #letraA {
     background-color: red;
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 #letraB {
     background-color: green;
-    position: relative;
-    top: 0px;
-    left: 0px;
+    
 }
 #letraC {
     background-color: blue;
